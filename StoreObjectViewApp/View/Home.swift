@@ -114,7 +114,7 @@ struct Home: View {
                 }
                 
                 VStack(alignment: .leading, spacing: 10){
-                    Text("Orijinal AJ1'dan ilham alan bu normal bilekli tasarım sevdiğin ikonik stili korurken farklı renkler ve kaliteli deri, tasarıma benzersiz bir kimlik kazandırır.")
+                    Text("Orijinal Air Jordan 1'den ilham alan bu normal bilekli tasarım sevdiğin ikonik stili korurken farklı renkler ve kaliteli deri, tasarıma benzersiz bir kimlik kazandırır.")
                         .font(.callout)
                         .fontWeight(.semibold)
                         .foregroundColor(.gray)
